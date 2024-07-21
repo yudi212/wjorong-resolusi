@@ -1,4 +1,4 @@
 WJORONG RESOLUSI
-- konsisten belajar codingnya sampai jadi'
-- membuat forum diskusi
+- konsisten belajar codingnya sampai jadi
 - membuat game untuk platform android
+- membuat game untuk platform IOS
